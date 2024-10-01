@@ -115,7 +115,7 @@
   --color-primary-alpha-70: #afb0b1b3;
   --color-primary-alpha-80: #afb0b1cc;
   --color-primary-alpha-90: #afb0b1e1;
-  --color-secondary: #000;
+  --color-secondary: #1a1a1a;
   --color-secondary-dark-1: #141414;
   --color-secondary-dark-2: #0b0c0e;
   --color-secondary-dark-3: #17181c;
@@ -174,7 +174,7 @@
   --color-text-light: #acb0b9;
   --color-text-light-2: #8a8e99;
   --color-text-light-3: #707687;
-  --color-footer: #000;
+  --color-footer: #050505;
   --color-timeline: #4c525e;
   --color-input-text: #d5dbe6;
   --color-input-background: #000;
@@ -198,7 +198,7 @@
   --color-placeholder-text: #6a737d;
   --color-editor-line-highlight: var(--color-primary-light-5);
   --color-project-board-bg: var(--color-secondary-light-2);
-  --color-nav-bg: var(--color-body);
+  --color-nav-bg: #050505;
   --color-nav-hover-bg: var(--color-hover);
 }
 
