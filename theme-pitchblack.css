@@ -1,94 +1,75 @@
-.chroma .hl{background-color:#3f424d}.chroma .ln,.chroma .lnt{color:#7f7f7f}
+.chroma .nx {
+	color: #ebdbb2
+}
 
-.chroma .k{color:#f63}
+.chroma .c,
+.chroma .c1,
+.chroma .ch,
+.chroma .cm,
+.chroma .sd {
+	color: #928374
+}
 
-.chroma .kc{color:#fa1}
+.chroma .k,
+.chroma .kc,
+.chroma .kd,
+.chroma .kn,
+.chroma .kp,
+.chroma .kr {
+	color: #fb4934
+}
 
-.chroma .kd{color:#9daccc}
+.chroma .o,
+.chroma .ow {
+	color: #fe8019
+}
 
-.chroma .kn{color:#fa1}
+.chroma .s,
+.chroma .s1,
+.chroma .s2,
+.chroma .sa,
+.chroma .sb,
+.chroma .sc,
+.chroma .sh,
+.chroma .si,
+.chroma .sr,
+.chroma .ss,
+.chroma .sx,
+.chroma .nt,
+.chroma .cpf {
+	color: #8ec07c
+}
 
-.chroma .kp{color:#5f8700}
+.chroma .m,
+.chroma .mb,
+.chroma .mf,
+.chroma .mh,
+.chroma .mi,
+.chroma .mo,
+.chroma .nl {
+	color: #d3869b
+}
 
-.chroma .kr{color:#f63}
+.chroma .kt,
+.chroma .nc,
+.chroma .nn,
+.chroma .nv {
+	color: #fabd2f
+}
 
-.chroma .kt{color:#9daccc}
+.chroma .nf,
+.chroma .nb,
+.chroma .na {
+	color: #b8bb26
+}
 
-.chroma .na{color:#8a8a8a}
-
-.chroma .bp,.chroma .nb{color:#9daccc}
-
-.chroma .nc,.chroma .no{color:#fa1}
-
-.chroma .nd{color:#9daccc}
-
-.chroma .ni{color:#fa1}
-
-.chroma .ne{color:#af8700}
-
-.chroma .nf{color:#9daccc}
-
-.chroma .nl,.chroma .nn{color:#fa1}
-
-.chroma .nt,.chroma .nv,.chroma .nx{color:#9daccc}
-
-.chroma .vc{color:#f81}
-
-.chroma .vg,.chroma .vi{color:#fa1}
-
-.chroma .s,.chroma .sa{color:#1af}
-
-.chroma .sb{color:#a0cc75}
-
-.chroma .dl,.chroma .sc{color:#1af}
-
-.chroma .sd{color:#6a737d}
-
-.chroma .s2{color:#a0cc75}
-
-.chroma .se{color:#f63}
-
-.chroma .sh{color:#1af}
-
-.chroma .si,.chroma .sx{color:#fa1}
-
-.chroma .sr{color:#97c}
-
-.chroma .s1{color:#a0cc75}
-
-.chroma .ss{color:#fa1}
-
-.chroma .il,.chroma .m,.chroma .mb,.chroma .mf,.chroma .mh,.chroma .mi,.chroma .mo{color:#1af}
-
-.chroma .o{color:#f63}
-
-.chroma .ow{color:#5f8700}
-
-.chroma .c,.chroma .c1,.chroma .ch,.chroma .cm{color:#6a737d}
-
-.chroma .cs{color:#637d}
-
-.chroma .cp,.chroma .cpf{color:#fc6}
-
-.chroma .gd{color:#fff;background-color:#5f3737}
-
-.chroma .ge{color:#ef5}
-
-.chroma .gr{color:#f33}
-
-.chroma .gh{color:#fa1}
-
-.chroma .gi{color:#fff;background-color:#3a523a}
-
-.chroma .go{color:#888888}
-
-.chroma .gp{color:#555555}
-
-.chroma .gu{color:#9daccc}
-
-.chroma .gt{color:#f63}
-
-.chroma .w{color:#bbbbbb}
+.chroma .bp,
+.chroma .cp,
+.chroma .ne,
+.chroma .nd,
+.chroma .se {
+	color: #83a598
+}
 
 :root {
   --color-primary: #ccc;
