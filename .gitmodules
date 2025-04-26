@@ -1,0 +1,3 @@
+[submodule "theme-dark-arc-gitea"]
+	path = theme-dark-arc-gitea
+	url = https://github.com/Jieiku/theme-dark-arc-gitea
