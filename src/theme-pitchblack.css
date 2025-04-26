@@ -161,13 +161,13 @@
   --color-input-background: #000;
   --color-input-border: #454545;
   --color-input-border-hover: #4e5465;
-  --color-navbar: #060606;
+  --color-navbar: #0f0e0e;
   --color-light: #00000028;
   --color-light-border: #ffffff28;
   --color-hover: #ffffff10;
   --color-active: #25272d;
   --color-menu: #060606;
-  --color-card: #060606;
+  --color-card: #0f0e0e;
   --color-markdown-table-row: #ffffff06;
   --color-markdown-code-block: #121314;
   --color-button: #070707;
@@ -179,8 +179,27 @@
   --color-placeholder-text: #6a737d;
   --color-editor-line-highlight: var(--color-primary-light-5);
   --color-project-board-bg: var(--color-secondary-light-2);
-  --color-nav-bg: #050505;
+  --color-nav-bg: #0f0e0e;
   --color-nav-hover-bg: var(--color-hover);
+  --color-label-bg: #191717;
+  --color-highlight-bg: rgba(249,188,46,.1);
+}
+
+.repo-clone-https, .repo-clone-ssh {
+	color: var(--color-text-light-2);
+}
+
+.lines-num, .lines-num::before {
+	color: #969696;
+}
+
+.overflow-menu-items:has(a[href="/explore/repos"]) {
+	background: #0a0909;
+}
+
+a[href="https://docs.gitea.com"] {
+	display: none !important;
+	visibility: hidden !important;
 }
 
 ::-webkit-calendar-picker-indicator {
